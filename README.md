@@ -1,5 +1,5 @@
-<h1 align="center">Hey je suis Benjamin</h1> <
-h3 align="center">Je cherche un devenir développeur dans un futur proche</h3>
+<h1 align="center">Hey je suis Benjamin</h1> 
+<h3 align="center">Je cherche un devenir développeur dans un futur proche</h3>
 
 - J'ai pu faire différents projets comme du python: [ Tic-Tac-Toe](https://github.com/anthony-rahajarison/tic-tac-toe/blob/main/tictactoe-v4.py)
 
