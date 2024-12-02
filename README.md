@@ -1,6 +1,8 @@
 <h1 align="center">Hey je suis Benjamin</h1> 
 <h3 align="center">Je cherche un devenir développeur dans un futur proche</h3>
 
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=benjamin-pons&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-pons" /> </p>
+
 - J'ai pu faire différents projets comme du python: [ Tic-Tac-Toe](https://github.com/anthony-rahajarison/tic-tac-toe/blob/main/tictactoe-v4.py)
 
 - HTML : [fanpage](https://github.com/benjamin-pons/fanpage/blob/benjamin/Fansite4/rap%20benjamin.html)
