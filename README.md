@@ -1,5 +1,5 @@
 <h1 align="center">Hey, je suis Benjamin</h1> <h3 align="center"
->Je cherche un devenir développeur dans un futur proche</h3>
+>Je cherche a devenir développeur dans un futur proche</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=benjamin-pons&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-pons" /> </p>
 
