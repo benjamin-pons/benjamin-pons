@@ -5,11 +5,11 @@
 
 - HTML : [fanpage](https://github.com/benjamin-pons/fanpage/blob/benjamin/Fansite4/rap%20benjamin.html)
 
-- CSS : [fanpage-css](https://github.com/benjamin-pons /fanpage/blob/benjamin/Fansite4/rap%20benjamin.css)
+- CSS : [fanpage-css](https://github.com/benjamin-pons/fanpage/blob/benjamin/Fansite4/rap%20benjamin.css)
 
 - 📫 Commente moi retrouver : **benjamin.pons0711@gmail.com**
 
-- 📄 Etude : [La PLAteforme](La PLAteforme)
+- 📄 Etude : (La Plateforme)
 
 - ⚡ Présentation : **Je suis quelqu'un d'assidu qui sait se surpasser pour atteindre son souhait, jadore le code et la musique.**
 
