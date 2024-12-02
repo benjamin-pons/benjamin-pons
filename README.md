@@ -1,5 +1,5 @@
 <h1 align="center">Hey je suis Benjamin</h1>
-<p align="left"> <img src="file:///C:/Users/ponsb/OneDrive/Documents/PONS_Benjamin.jpg" /> </p>
+<p align="left"> <img src="PONS_Benjamin.jpg" /> </p>
 <h3 align="center">Je cherche un devenir développeur dans un futur proche</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-pons&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22benjamin-pons" /> </p>
