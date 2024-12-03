@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-pons&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22benjamin-pons" /> </p>
 
-- J'ai pu faire différents projets comme du python: [ Tic-Tac-Toe](https://github.com/anthony-rahajarison/tic-tac-toe/blob/main/tictactoe-v4.py)
+J'ai pu faire différents projets comme du python: [ Tic-Tac-Toe](https://github.com/anthony-rahajarison/tic-tac-toe/blob/main/tictactoe-v4.py)
 
 - HTML : [fanpage](https://github.com/benjamin-pons/fanpage/blob/benjamin/Fansite4/rap%20benjamin.html)
 
@@ -11,11 +11,11 @@
   
 - Virtualisation
   
-- 📫 Comment me retrouver : **benjamin.pons0711@gmail.com**
+  📫 Comment me retrouver : **benjamin.pons0711@gmail.com**
 
-- 📄 Etude : (La Plateforme)
+  📄 Etude : (La Plateforme)
 
-- ⚡ Présentation : **Je suis quelqu'un d'assidu qui sait se surpasser pour atteindre son souhait, jadore le code et la musique.**
+  ⚡ Présentation : **Je suis quelqu'un d'assidu qui sait se surpasser pour atteindre son souhait, jadore le code et la musique.**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
