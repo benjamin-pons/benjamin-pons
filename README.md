@@ -11,7 +11,7 @@
   
 - Virtualisation
   
-- 📫 Commente moi retrouver : **benjamin.pons0711@gmail.com**
+- 📫 Comment me retrouver : **benjamin.pons0711@gmail.com**
 
 - 📄 Etude : (La Plateforme)
 
