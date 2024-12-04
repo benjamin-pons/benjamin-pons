@@ -19,7 +19,7 @@ J'ai pu faire différents projets comme du python: [ Tic-Tac-Toe](https://github
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjamin pons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin pons" height=" 30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/benjamin-pons-ab41612b6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin pons" height=" 30" width="40" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
